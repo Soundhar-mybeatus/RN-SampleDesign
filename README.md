@@ -5,18 +5,30 @@ React Native app login screen design sample. This will help to learn about the R
 
 ## Clone Repository
 
-`git clone https://github.com/tekhubapps/RN-SampleDesign.git`
+```bash
+git clone https://github.com/tekhubapps/RN-SampleDesign.git
+```
 
 ## Install node modules
 
-`cd RN-SampleDesign`
-`npm install`
+```bash
+cd RN-SampleDesign
+```
+```bash
+npm install
+```
 
 ## Run Application
 
-`npm start`
-`react-native run-ios` in new Terminal
-`react-native run-android` in new Terminal
+```bash
+npm start
+```
+```bash
+react-native run-ios
+``` in new Terminal
+```bash
+react-native run-android
+``` in new Terminal
 
 
 ## Output
