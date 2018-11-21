@@ -25,10 +25,12 @@ npm start
 ```
 ```bash
 react-native run-ios
-``` in new Terminal
+``` 
+in new Terminal
 ```bash
 react-native run-android
-``` in new Terminal
+``` 
+in new Terminal
 
 
 ## Output
