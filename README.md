@@ -2,6 +2,7 @@
 
 React Native app login screen design sample. This will help to learn about the React Native design part.
 
+[Tutorial Video](https://youtu.be/DR1d62NpJw0)
 
 ## Clone Repository
 
@@ -37,4 +38,3 @@ react-native run-android
 ## Output
 
 ![Screenshot](https://raw.githubusercontent.com/tekhubapps/RN-SampleDesign/master/Screen%20Shot.png)
-
