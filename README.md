@@ -23,14 +23,15 @@ npm install
 ```bash
 npm start
 ```
+Open new Terminal
 ```bash
 react-native run-ios
 ``` 
-in new Terminal
+Open new Terminal
 ```bash
 react-native run-android
 ``` 
-in new Terminal
+
 
 
 ## Output
