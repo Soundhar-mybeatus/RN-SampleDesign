@@ -21,5 +21,5 @@ React Native app login screen design sample. This will help to learn about the R
 
 ## Output
 
-![Screenshot] (https://raw.githubusercontent.com/tekhubapps/RN-SampleDesign/master/Screen%20Shot.png)
+![Screenshot](https://raw.githubusercontent.com/tekhubapps/RN-SampleDesign/master/Screen%20Shot.png)
 
